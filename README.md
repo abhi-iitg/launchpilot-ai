@@ -8,6 +8,10 @@
 
 [LaunchPilot AI — Live Demo](https://launchpilot-ai-abhi-iitg.streamlit.app/)
 
+## 🎯 Executive Decision Dashboard
+
+![LaunchPilot AI — Executive Decision Dashboard](screenshots/05-executive-decision.png)
+
 ## 🎥 Product Demo
 
 Interactive AI product launch decision platform demonstrating:
@@ -22,17 +26,21 @@ Interactive AI product launch decision platform demonstrating:
 
 **Product Brief → 5-Gate Review → Risk & Trust → AI Evaluation → Executive Decision**
 
-### Why this project is PM-focused
+## 🧠 PM Capabilities Demonstrated
 
-LaunchPilot AI models a PM launch review rather than a generic AI dashboard. It connects:
-
-- Customer problem and target persona
-- MVP and non-goals
-- Five launch-readiness gates
-- Independent risk management
-- AI quality and safety evaluation
-- Go / Iterate / No-Go decisioning
-- Executive decision memo
+| PM Capability | Demonstrated Through |
+|---|---|
+| Product Discovery | Problem definition, target user, product promise |
+| PRD Development | Product Brief and MVP scope |
+| Product Strategy | Product goals, North Star Metric and success criteria |
+| AI Product Management | AI evaluation and quality thresholds |
+| Responsible AI | Trust & Safety assessment |
+| Risk Management | Likelihood × Impact risk framework |
+| Product Analytics | Readiness metrics and evaluation metrics |
+| Experimentation | AI evaluation cases and launch criteria |
+| GTM | Launch and rollout planning |
+| Executive Communication | Executive Decision Memo |
+| Decision Making | GO / ITERATE / NO-GO framework |
 
 ## Key product features
 
@@ -147,6 +155,54 @@ Create a Streamlit Community Cloud app from your GitHub repository and select:
 - Branch: `main`
 - Main file: `app.py`
 - Python: 3.12
+
+## 📸 Product Demo
+
+LaunchPilot AI is an interactive product-management decision system that takes a product from initial definition through AI evaluation, launch readiness, risk assessment, and executive decision-making.
+
+### 1. Product Brief
+
+Define the product, target customer, problem, product promise, MVP scope, and success metrics.
+
+![LaunchPilot AI — Product Brief](screenshots/01-product-brief.png)
+
+---
+
+### 2. 5-Gate Launch Review
+
+Evaluate the product across five launch-readiness dimensions:
+
+- Customer Value
+- AI Quality
+- Trust & Safety
+- Operational Readiness
+- Business Readiness
+
+![LaunchPilot AI — 5-Gate Review](screenshots/02-five-gate-review.png)
+
+---
+
+### 3. Risk & Trust
+
+Identify, score, prioritize, and mitigate product and AI risks using likelihood × impact exposure.
+
+![LaunchPilot AI — Risk & Trust](screenshots/03-risk-trust.png)
+
+---
+
+### 4. AI Evaluation
+
+Evaluate AI product quality, safety, and test-case performance before launch.
+
+![LaunchPilot AI — AI Evaluation](screenshots/04-ai-evaluation.png)
+
+---
+
+### 5. Executive Decision
+
+Synthesize product, launch-gate, risk, and AI evaluation evidence into an executive GO / ITERATE / NO-GO decision.
+
+![LaunchPilot AI — Executive Decision](screenshots/05-executive-decision.png)
 
 ## Project positioning for PM interviews
 
