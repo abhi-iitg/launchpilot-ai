@@ -4,6 +4,20 @@
 
 > Portfolio project for Product Management. Demo data and outcomes are synthetic and illustrative.
 
+## 🚀 Live Demo
+
+[LaunchPilot AI — Live Demo](https://launchpilot-ai-abhi-iitg.streamlit.app/)
+
+## 🎥 Product Demo
+
+Interactive AI product launch decision platform demonstrating:
+
+- Product Brief
+- 5-Gate Launch Review
+- Risk & Trust Management
+- AI Evaluation
+- Executive GO / ITERATE / NO-GO Decision
+
 ## Live product workflow
 
 **Product Brief → 5-Gate Review → Risk & Trust → AI Evaluation → Executive Decision**
@@ -142,6 +156,15 @@ LaunchPilot demonstrates a complete launch-management loop:
 
 Do not describe synthetic demo values as real business results.
 
+## Author
+
+**Abhishek Kumar Gond**  
+IIT Guwahati 
+- **Email : mr.abhishekaaa@gmail.com**
+- **[Portfolio]()**
+- **[LinkedIn](https://www.linkedin.com/in/abhishekkumargond/)**
+
 ## License
 
-MIT
+Released under the [MIT License](LICENSE).
+
