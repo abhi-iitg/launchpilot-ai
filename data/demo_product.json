@@ -1,0 +1,11 @@
+{
+  "name": "ResolveAI",
+  "category": "AI Customer Support",
+  "problem": "Support teams spend too much time answering repetitive questions while customers wait for clear, trustworthy answers.",
+  "persona": "Mid-market SaaS customers and support agents handling repetitive product and policy questions.",
+  "promise": "ResolveAI gives customers fast, source-grounded answers and routes uncertain cases to a human without hiding uncertainty.",
+  "mvp": "Source-cited AI answers, confidence-gated escalation, agent handoff, feedback capture, evaluation dashboard, and launch scorecard.",
+  "non_goals": "Autonomous refunds, account changes, legal advice, unrestricted actions, and replacing human support for complex cases.",
+  "north_star": "Resolved Customer Sessions (RCS): sessions where the user gets a correct answer or a successful human handoff without reopening the same issue.",
+  "success_targets": "≥70% resolution rate; ≥90% groundedness on evaluation set; <5% high-severity hallucination rate; ≥4.2/5 CSAT; ≥20% support-ticket deflection."
+}
