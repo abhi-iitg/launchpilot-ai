@@ -552,13 +552,6 @@ This is a portfolio project using synthetic demo data. It should be discussed as
 **Abhishek Kumar Gond**  
 IIT Guwahati
 
-<p>
-  <a href="https://abhishek-kg-portfolio.vercel.app/">Portfolio</a> •
-  <a href="https://github.com/abhi-iitg">GitHub</a> •
-  <a href="https://www.linkedin.com/in/abhishekkumargond/">LinkedIn</a> •
-  <a href="mailto:mr.abhishekaaa@gmail.com">Email</a>
-</p>
-
 ## License
 
 Released under the [MIT License](LICENSE).
