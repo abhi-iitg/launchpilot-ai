@@ -550,7 +550,7 @@ This is a portfolio project using synthetic demo data. It should be discussed as
 ## Author
 
 **Abhishek Kumar Gond**  
-IIT Guwahati
+B.Tech in Chemical Engineering @ IIT Guwahati
 
 ## License
 
